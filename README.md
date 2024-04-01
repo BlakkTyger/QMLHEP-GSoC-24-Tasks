@@ -1,7 +1,7 @@
 # QMLHEP-GSoC-24-Tasks
-Task I: Quantum Computing Part
-  1) Implement a simple quantum operation with Cirq or Pennylane: Task-1_1.ipnb
-  2) Implement a second circuit with a framework of your choice: Task-1_2.ipnb
+Task I: Quantum Computing Part (Script: Task_1.ipynb)
+  1) Implement a simple quantum operation with Cirq or Pennylane
+  2) Implement a second circuit with a framework of your choice
 
 Task II: Classical Graph Neural Network
 
