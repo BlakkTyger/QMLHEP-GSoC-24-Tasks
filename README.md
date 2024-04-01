@@ -15,7 +15,4 @@ Task III: Comment on Quantum Computing
 - suggest methods you think are good and you would like to work on
 
 
-Task IV: Quantum Generative Adversarial Network (QGAN)
-
-
 Task V: Quantum Graph Neural Network (QGNN)
